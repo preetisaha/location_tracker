@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Location Application</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_server_not_reachable">Server Not Reachable</string>
+    <string name="error_access_denied">Access Denied: Basic Authentication Header Missing</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_no_last_known_location">There are no last known location details</string>
+    <string name="error_email_exists_already">Please perform Update operation</string>
+    <string name="error_nothing_to_update">Nothing to update: Please add location details</string>
+    <string name="error_nothing_to_delete">Nothing to delete: Please add location details</string>
+    <string name="add_loc_successful">Location Info Added</string>
+    <string name="update_loc_successful">Location Info Updated</string>
+    <string name="delete_loc_successful">Location Info Deleted</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
